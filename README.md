@@ -27,7 +27,7 @@ It helps estimate shipping costs based on:
 - Handling missing values
 - Log transformation of target (for stability in some versions)
 - Train/Test Split
-- Model Training (Random Forest / XGBoost)
+- Model Training (Random Forest)
 - Evaluation using:
   - MAE
   - RMSE
