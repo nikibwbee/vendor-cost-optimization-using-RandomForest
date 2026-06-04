@@ -58,8 +58,9 @@ It helps estimate shipping costs based on:
 
 ---
 
-## Web App (Streamlit)
-
-A simple and interactive UI built using Streamlit where users can input shipment details and get instant freight cost prediction.
+## The application is deployed using:
+- Streamlit for frontend UI
+- Docker for containerization
+- Render for cloud deployment
 
 ### Run - Live App: https://vendor-cost-optimization-using.onrender.com
