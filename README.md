@@ -62,7 +62,4 @@ It helps estimate shipping costs based on:
 
 A simple and interactive UI built using Streamlit where users can input shipment details and get instant freight cost prediction.
 
-### Run locally
-
-```bash
-streamlit run app_streamlit.py
+### Run - Live App: https://vendor-cost-optimization-using.onrender.com
